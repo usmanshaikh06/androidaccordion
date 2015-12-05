@@ -1,2 +1,2 @@
-# androidaccordion
+# Accordion
 Accordion view for android
